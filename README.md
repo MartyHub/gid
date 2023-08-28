@@ -6,6 +6,8 @@
   and [predeclared identifiers](https://go.dev/ref/spec#Predeclared_identifiers)
 * checking for [initialisms](https://github.com/golang/go/wiki/CodeReviewComments#initialisms)
 
+![build](https://github.com/MartyHub/gid/actions/workflows/go.yml/badge.svg)
+
 ## TLDR;
 
 ```go
