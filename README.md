@@ -7,6 +7,7 @@
 * checking for [initialisms](https://github.com/golang/go/wiki/CodeReviewComments#initialisms)
 
 ![build](https://github.com/MartyHub/gid/actions/workflows/go.yml/badge.svg)
+[![Go Report Card](https://goreportcard.com/badge/github.com/MartyHub/gid)](https://goreportcard.com/report/github.com/MartyHub/gid)
 
 ## TLDR;
 
